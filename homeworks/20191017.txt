@@ -1,11 +1,14 @@
 Task:
 Write sentences about public transport
-- 10 sentence begin with a subject for example The bus is yellow.
-- 10 sentence begin with 'It' word. It goes slowly
-- 10 sentence is plural for example Jakab and I like it
+- 10 sentences begin with a subject for example The bus is yellow.
+- 10 sentences begin with 'It' word. It goes slowly
+- 10 sentences are plural for example Jakab and I like it
+- 10 sentences are comparisons for example The bus is slow as a snail but it's very cheap.
 
 For example
 The bus is yellow.
 It goes slowly.
 I like it.
-
+The bus is slow as a snail but it's very cheap.
+The metro is quick but it smells like shit.
+They both are cheaper than cabs.
